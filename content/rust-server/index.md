@@ -11,7 +11,7 @@
 
 **Live Map!**: <http://game.hotcocoabrewed.coffee:28015/> 
 
-**Gameplay** 
+##**Gameplay** 
 **Gather/Loot/Smelting**: 2x 
 **Stack Size**: 2x 
 **Mods**: [tbd] 
