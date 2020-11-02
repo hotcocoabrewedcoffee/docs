@@ -4,6 +4,7 @@
 * [HOME](./)
 
 * [Community](./community/index)
+  * [Decree](./community/decree/index)
   * [Guidelines](./community/guidelines/index)
   * [Structure](./community/structure/index)
 
