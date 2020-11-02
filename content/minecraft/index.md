@@ -1,18 +1,21 @@
-# Minecraft Bedrock
-## __**Connection Information**__
-**Server Name**: Mine al' a Carte 
-**Server Host**: game.hotcocoabrewed.coffee 
-**Server Port**: 19132 
+# **Minecraft Servers**
+
+## Minecraft Bedrock
+
+### __**Information**__
+**Mine al' a Carte**
+**Server Host**: `game.hotcocoabrewed.coffee`
+**Server Port**: `19132`
 
 ### __Server Rules:__ 
-
 1. No Racism or Hate Speech 
 2. No Advertising 
 3. No Griefing 
   
   
-# Minecraft Java
-## __**Connection Information**__
+## Minecraft Java
+
+### __**Connection Information**__
 **Server Name**:  HotCocoaBrewedCoffee
 **Server Address**: game.hotcocoabrewed.coffee:25500
 
