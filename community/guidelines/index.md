@@ -1,4 +1,13 @@
-# **Moderator Requirements and Traits:**
+# **Community Guidelines**
+1. Follow community rules and be respectful towards other players.
+
+2. [place holder]
+
+3. [place holder]
+
+
+
+# **Moderator Guidelines**
 1. Be fair and understanding. 
 
 2. Inter-player disputes should not be acted upon swiftly. 
