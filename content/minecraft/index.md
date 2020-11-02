@@ -18,7 +18,7 @@ Admin or Moderator Abuse is not tolerated.
 
 # Minecraft Java
 ## __**Connection Information**__
-**Server Name**: :coffee: HotCocoaBrewedCoffee :coffee:
+**Server Name**:  HotCocoaBrewedCoffee
 **Server Address**: game.hotcocoabrewed.coffee:25500
 
 ### __Server Rules:__
