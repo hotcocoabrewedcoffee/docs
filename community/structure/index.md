@@ -14,7 +14,7 @@
   Collaborating with other teams to organize and plan Community Events. Engage community members as well as staff teams to create and strengthen community relationships.
 
 ###     3.c. Content Team Team
-    Building and designing content for the community, in discord and game servers. Enforcing community content guidelines.
+  Building and designing content for the community, in discord and game servers. Enforcing community content guidelines.
 
 ### 4. Noble
   Active members who provide consistent quality feedback. Members that embody the community values and follow the community guidelines. Often these members are strong candidates for staff positions.
