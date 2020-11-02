@@ -9,6 +9,7 @@
 
 * [Content](./content/index)
   * [Rust Server](./content/rust-server/index)
+  * [Minecraft Servers](./content/minecraft/index)
   * [Discord](./content/discord/index)
 
 
