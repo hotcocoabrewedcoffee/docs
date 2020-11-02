@@ -7,13 +7,13 @@
   Encouraging and facilitating and user engagement and content feedback. Refocusing communities activities to meet community values. Collaborating with Team Managers to apply and utilize community feedback.
 
 ## 3. Team Manager
-###     3.a. User Engagement 
+###     3.a. User Engagement Team
   Encouraging and facilitating and user engagement, collecting and harnessing user and content feedback. Enforcing user guidelines. Identifying and encouraging Nobles and Luminaries
 
-###     3.b. Organization
+###     3.b. Organization Team
   Collaborating with other teams to organize and plan Community Events. Engage community members as well as staff teams to create and strengthen community relationships.
 
-###     3.c. Content Team
+###     3.c. Content Team Team
     Building and designing content for the community, in discord and game servers. Enforcing community content guidelines.
 
 ### 4. Noble
