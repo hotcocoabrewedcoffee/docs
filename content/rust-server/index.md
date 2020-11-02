@@ -1,4 +1,7 @@
 # **Rust Server**: 
+
+[![](https://media.discordapp.net/attachments/700443584284852304/700445542274039858/Image20URL21.png?width=400&height=225)](https://cdn.discordapp.com/attachments/700443584284852304/700445542274039858/Image20URL21.png)
+
 ## **Information**
 
 **CafeRust|Friendly|SlowDecay|Vanillish** 
