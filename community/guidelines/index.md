@@ -1,0 +1,1 @@
+community guidelines, how to uphold them, and what happens if you dont.

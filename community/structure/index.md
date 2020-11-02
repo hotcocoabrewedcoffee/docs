@@ -1,0 +1,1 @@
+Community structure, leadership roles, team roles, and members roles.. what they do, and anything inbetween!

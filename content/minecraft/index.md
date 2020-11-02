@@ -1,0 +1,1 @@
+Minecraft server(s) informatin, includes connections, guidelines, and any additional information about our minecraft servers

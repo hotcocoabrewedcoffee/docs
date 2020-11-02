@@ -1,0 +1,1 @@
+General information about the community, some about info and a suggestion to read guidelines and structure.
