@@ -9,13 +9,8 @@
 1. No Racism or Hate Speech 
 2. No Advertising 
 3. No Griefing 
-
-__Disclaimer:__ 
-While Advertisement is not allow, you may contact our moderators regarding referral/partnership agreements.
-Admins have the right to interpret these rules as they seem fit on a per-case basis.
-Admin or Moderator Abuse is not tolerated.
-
-
+  
+  
 # Minecraft Java
 ## __**Connection Information**__
 **Server Name**:  HotCocoaBrewedCoffee
