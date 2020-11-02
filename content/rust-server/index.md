@@ -11,12 +11,12 @@
 
 **Live Map!**: <http://game.hotcocoabrewed.coffee:28015/> 
 
-##**Gameplay** 
+## **Gameplay** 
 **Gather/Loot/Smelting**: 2x 
 **Stack Size**: 2x 
 **Mods**: [tbd] 
 
-Server Rules: 
+##Server Rules: 
 1. Duos Only (Groups no larger than 2) 
 2. Community Island is a NON-PVP/PVE ZONE! 
 3. No Offline Raiding 
