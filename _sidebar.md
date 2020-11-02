@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 
-* [HOME](./)
+* [Home Page](./)
 
 * [Community](./community/index)
   * [Guidelines](./community/guidelines/index)
