@@ -16,8 +16,8 @@
 ## Minecraft Java
 
 ### __**Connection Information**__
-**Server Name**:  HotCocoaBrewedCoffee
-**Server Address**: game.hotcocoabrewed.coffee:25500
+**Server Name**: HotCocoaBrewedCoffee
+**Server Address**: `game.hotcocoabrewed.coffee:25500`
 
 ### __Server Rules:__
 1. No Racism or Hate Speech
