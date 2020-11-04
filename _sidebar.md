@@ -3,13 +3,13 @@
 
 * [Home Page](./)
 
-* [Community](./community/index)
-  * [Guidelines](./community/guidelines/index)
-  * [Structure](./community/structure/index)
+* [Community](./community/index "Community")
+  * [Guidelines](./community/guidelines/index "Community Guidelines")
+  * [Structure](./community/structure/index "Community Structure")
 
-* [Content](./content/index)
-  * [Rust Server](./content/rust-server/index)
-  * [Minecraft Servers](./content/minecraft/index)
-  * [Discord](./content/discord/index)
+* [Content](./content/index "Content")
+  * [Rust Server](./content/rust-server/index "Rust Server Information")
+  * [Minecraft Servers](./content/minecraft/index "Minecraft Server Information")
+  * [Discord](./content/discord/index "Discord Server Information")
 
 
