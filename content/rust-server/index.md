@@ -13,9 +13,9 @@
 **Live Map!**: <http://game.hotcocoabrewed.coffee:28015/> 
 
 ## **Gameplay** 
-**Gather/Loot/Smelting**: 2x 
-**Stack Size**: 2x 
-**Mods**: [tbd] 
+**Gather/Loot/Smelting**: 2x  
+**Stack Size**: 2x  
+**Mods**: [tbd]  
 
 ## Server Rules: 
 1. Trios Only (Groups no larger than 3) 
