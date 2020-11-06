@@ -18,7 +18,7 @@
 **Mods**: [tbd] 
 
 ## Server Rules: 
-1. Duos Only (Groups no larger than 2) 
+1. Trios Only (Groups no larger than 3) 
 2. Community Island is a NON-PVP/PVE ZONE! 
 3. No Offline Raiding 
 4. No Racism or Hate Speech 
