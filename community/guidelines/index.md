@@ -1,16 +1,16 @@
 # **Community Guidelines**
 1. Follow community rules and be respectful towards other players.
 
-2. [place holder]
+2. Be considerate of others and the community in your actions.
 
-3. [place holder]
+3. Strive to improve the community so that others will want to join and enjoy it.
 
 
 
 # **Moderator Guidelines**
 1. Be fair and understanding. 
 
-2. Inter-player disputes should not be acted upon swiftly. 
+2. Inter-player disputes should be carefully considered and acted on in a fair and measured way.
 
 3. Hacking, glitching, and exploiting may be acted upon swiftly.
 
