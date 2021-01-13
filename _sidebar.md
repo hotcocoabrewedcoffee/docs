@@ -8,7 +8,7 @@
   * [Structure](./community/structure/index "Community Structure")
 
 * [Content](./content/index "Content")
-  * [Rust Server](./content/rust-server/index "Rust Server Information")
+  * [Rust Servers](./content/rust-server/index "Rust Server Information")
   * [Minecraft Servers](./content/minecraft/index "Minecraft Server Information")
   * [Discord](./content/discord/index "Discord Server Information")
 
