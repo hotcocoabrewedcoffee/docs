@@ -13,3 +13,6 @@ We frequently run polls to vote on changes or new direction, and every member is
 
 # **Moderators:**
  The role of our moderators is not to enforce the rules upon the community, but act as an extension of its members. While moderators and administrators have the right to use their own discretion while interpreting the rules in order to perform their tasks, these rules are ultimately defined by the community members themselves. Common-sense limitations against objectionable, hateful or toxic actions will be enforced, but moderatior and administrator actions are open to community review.
+
+
+☕
